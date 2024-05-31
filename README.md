@@ -2,7 +2,7 @@
 
 I followed this tutorial here <https://www.youtube.com/watch?v=YQCDUJ6hhNY> to build this
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+After completeing the tutorial I went in and customized the portfolio to fit myself. Still needs a lot of work. MIght end up reworking the whole thing actually but since I followed the tutorial I understand the architecture and setup. 
 
 Currently, two official plugins are available:
 
