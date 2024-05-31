@@ -1,29 +1,33 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
-    },
-    {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "role": "PM Intern",
+      "organisation": "Emcor FS",
+      "startDate": "Aug 2023",
+      "endDate": "Dec 2023",
+      "experiences": [
+        "Concurrently managed 15-20 projects at a given time", 
+        "Created RFPs, closeout documents, contractor bids, and scoped projects"
+      ],
+      "imageSrc": "history/emcorLogo.png"
     },
     {
       "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+      "organisation": "Chamberlain",
+      "startDate": "Jan 2022",
+      "endDate": "May 2022",
+      "experiences": [ 
+        "Configued a Texas Instruments mmwave radar for occupancy counting and relayed this information to a Node.js server via MQTT"
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/chamberlainLogo.png"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "FIS",
+      "startDate": "Aug 2021",
+      "endDate": "Aug 2022",
+      "experiences": [
+        "Created 3 different proof of concepts relating to finance and insurance and the UIs associated with them along with minimal functionality"
+      ],
+      "imageSrc": "history/fisLogo.png"
     }
   ]

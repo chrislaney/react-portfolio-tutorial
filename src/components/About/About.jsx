@@ -10,7 +10,7 @@ export const About = () => {
         </h2>
         <div className={styles.content}>
             <img 
-                src={getImageUrl("about/aboutImage.png")} 
+                src={getImageUrl("hero/skateboardChris.png")} 
                 alt="me sitting with a laptop"
                 className={styles.aboutImage}
                 />
@@ -19,10 +19,10 @@ export const About = () => {
                     <img src={getImageUrl("about/cursorIcon.png")} alt="cursor icon"></img>
                     <div className={styles.aboutItemText}>
                         <h3>
-                            Frontend Developer
+                            Frontend Developement
                         </h3>
                         <p>
-                            I am a frontend dev with experience in UI and optimized sites blah blah
+                            I have worked on front end development in Angular, as well as this website was done in React
                         </p>
                     </div>
                 </li>
@@ -33,7 +33,7 @@ export const About = () => {
                             Backend Developer
                         </h3>
                         <p>
-                            I have experience developing fast backend systems and APIS blah
+                            I have some experience using Node.JS for backend logic, as well as Java and C# for functionality
                         </p>
                     </div>
                 </li>
@@ -41,10 +41,10 @@ export const About = () => {
                     <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon"></img>
                     <div className={styles.aboutItemText}>
                         <h3>
-                            UI designer
+                            Databases
                         </h3>
                         <p>
-                            I have designed many designs for user interfaces with great user experiences.
+                            I have minimal experience in databases but am interested in furthering my ability
                         </p>
                     </div>
                 </li>
